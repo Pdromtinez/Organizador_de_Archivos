@@ -8,8 +8,8 @@ Este proyecto está diseñado para ayudar a mantener organizado un directorio de
 #### 📸 Fotos: .jpg, .jpeg, .png, .gif, .bmp, .tiff
 #### 🎥 Videos: .mp4, .mov, .avi, .mkv, .flv, .wmv
 #### 🎵 Música: .mp3, .wav, .aac, .flac, .ogg
-#### 🛠️ Uso
 
+# 🛠️ Uso
 ## 📌 Requisitos
 Python 3.x instalado en tu sistema.
 
